@@ -10,7 +10,7 @@ You will mostly need these 3 classes Javadoc:
  
 To do this Hands-on, you just have to:
 
- - Have [Java 8](https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html) and a Java IDE ([IntelliJ IDEA](https://www.jetbrains.com/idea/) for example) installed with Maven support
+ - Have [Java 11](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html) and a Java IDE ([IntelliJ IDEA](https://www.jetbrains.com/idea/) for example) installed with Maven support
  - Clone this repository (or your fork)
  - Import the project as a Maven one in your IDE
  - Make sure that the language level is set to Java 8 in your IDE project settings
